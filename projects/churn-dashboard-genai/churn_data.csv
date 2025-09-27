@@ -1,0 +1,4 @@
+customer_id,age,tenure_months,premium,claim_count,channel,churn
+1001,45,24,350,0,online,0
+1002,33,6,420,1,phone,1
+1003,54,60,280,2,broker,0
