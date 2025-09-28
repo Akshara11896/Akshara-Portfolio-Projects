@@ -1,0 +1,7 @@
+Date,Agent,Channel,Call_Handle_Time,CSAT,NPS,First_Call_Resolution
+2025-01-05,Akshara,Phone,620,4.2,35,Yes
+2025-01-05,Sam,Chat,480,4.5,40,Yes
+2025-01-05,Lee,Email,710,3.9,20,No
+2025-01-06,Akshara,Chat,530,4.7,45,Yes
+2025-01-06,Sam,Phone,650,4.0,25,No
+2025-01-06,Lee,Email,700,3.8,15,No
